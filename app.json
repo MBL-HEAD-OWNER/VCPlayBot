@@ -1,9 +1,9 @@
 {
-  "name": "VCPlayBot",
-  "logo": "https://telegra.ph/file/7ffa8d18b9b7f1b51a81e.jpg",
+  "name": "VCPlayBot"
+,https://te.legra.ph/file/2ad2e32ab613ef1166e5c.jpg
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/QueenArzoo/VCPlayBot",
+  "repository": "https://github.com/M0R23L_MBL/VCPlayBot",
   "stack": "container",
   "buildpacks": [
    {
@@ -20,7 +20,7 @@
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "Your bot's username without @",
+      "description": "BOT KA USERNAMES DAL BC BINA ISKE @",
       "required": true
     },
     "BOT_NAME": {
@@ -31,7 +31,7 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "AwesomeSupport"
+      "value": "MUSIC_GROUP_MBL"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
@@ -39,7 +39,7 @@
       "value": "VCPlayBot2.0"
     },
     "ASSISTANT_NAME": {
-      "description": "Your MusicPlayer's assistant Username without @.",
+      "description": "TERE MUSIC BOT KA USERNAME DAL BE LODE @.",
       "required": true
     },
     "ARQ_API_KEY": {
